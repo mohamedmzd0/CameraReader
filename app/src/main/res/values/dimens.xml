@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="splash_image_h">100dp</dimen>
+    <dimen name="h25">25dp</dimen>
+    <dimen name="snap_button_h_w">75dp</dimen>
+</resources>
